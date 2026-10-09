@@ -1,0 +1,2 @@
+# premium-telescope-001-refracting-telescope-lens-spac
+Struggling to calculate precise lens spacing for your refracting telescope build? Getting the focal length and element distances wrong means blurry stargazing and wasted materials.  The Refracting Telescope Lens Spacing Guide is a Notion template engineered specifically for amateur and professional telescope builders who need accurate optical calcu
